@@ -1,7 +1,0 @@
-_*
-/src
-.babelrc
-.eslintignore
-.eslintrc
-.flowconfig
-.travis.yml
